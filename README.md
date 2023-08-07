@@ -1,6 +1,10 @@
 # Modelagem de Banco de Dados 🗃️🔍💾
 
-Este repositório contém informações e recursos relacionados à modelagem de banco de dados. A modelagem de banco de dados é uma parte essencial do desenvolvimento de aplicativos e sistemas de gerenciamento de informações. Neste repositório, você encontrará materiais que podem ajudá-lo a entender e aplicar conceitos de modelagem de banco de dados. 🤓📚
+Este repositório contém informações e recursos relacionados à modelagem de banco de dados, feito por Kalebzaki4. A modelagem de banco de dados é uma parte essencial do desenvolvimento de aplicativos e sistemas de gerenciamento de informações. Neste repositório, você encontrará materiais que podem ajudá-lo a entender e aplicar conceitos de modelagem de banco de dados. 🤓📚
+
+## Agradecimento Especial
+
+Um agradecimento especial ao Kalebzaki4 por criar e contribuir para este repositório. Sua dedicação e esforço ajudaram a tornar este recurso valioso para a comunidade de desenvolvimento. 👏🙌
 
 ## Conteúdo do Repositório 📂📋
 
